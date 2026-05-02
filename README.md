@@ -1,3 +1,24 @@
+# 🤖 SO-101 Robot Manipulation - Hackathon Project
+
+## Our Implementation
+Built on top of Solo-CLI to achieve autonomous robot manipulation using ACT policy.
+
+## Tasks Completed
+| Task | Episodes | Steps | Status |
+|------|----------|-------|--------|
+| Pick & Place | 50 | 50,000 | ✅ Working |
+| Water Pouring | 50 | 20,000 | ✅ Trained |
+
+## Hardware
+- Robot: SO-101 Leader + Follower
+- GPU: NVIDIA RTX 4050 Laptop
+- Camera: 640x480 @ 30FPS
+
+## Results
+- Pick & Place: Consistent grasping and placement ✅
+- Water Pouring: Trained with ACT policy ✅
+
+---
 # Solo CLI
 
 <div align="center">
