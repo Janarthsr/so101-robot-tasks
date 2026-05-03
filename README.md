@@ -5,6 +5,8 @@ https://github.com/user-attachments/assets/37d218ac-c78f-478f-ab40-d7c474a80f14
 
 <img width="1600" height="1000" alt="robo interface" src="https://github.com/user-attachments/assets/92dec4d0-f78b-4aac-8d98-65f2d68324f3" />
 
+<img width="1280" height="960" alt="training" src="https://github.com/user-attachments/assets/5283d9c7-1996-491b-b510-de234c7db27b" />
+
 
 # 🤖 SO-101 Robot Manipulation - Hackathon Project
 
